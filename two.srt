@@ -1,0 +1,3919 @@
+1
+00:00:06,500 --> 00:00:19,350
+this is a day I've been looking forward
+to for two and a half years every once
+
+2
+00:00:19,350 --> 00:00:25,730
+in a while a revolutionary product comes
+along that changes everything
+
+3
+00:00:25,730 --> 00:00:33,840
+and Apple has been well first of all
+ones very fortunate if you get to work
+
+4
+00:00:33,840 --> 00:00:41,340
+on just one of these in your career
+apples been very fortunate it's been
+
+5
+00:00:41,340 --> 00:00:49,079
+able to introduce a few of these into
+the world 1984 we introduced the
+
+6
+00:00:49,079 --> 00:00:56,449
+Macintosh it didn't just change Apple it
+changed the whole computer industry
+
+7
+00:01:05,330 --> 00:01:17,190
+in 2001 we introduced the first iPod and
+it didn't just it didn't just change the
+
+8
+00:01:17,190 --> 00:01:26,600
+way we all listen to music it changed
+the entire music industry well today
+
+9
+00:01:26,600 --> 00:01:38,600
+we're introducing three revolutionary
+products of this class the first one is
+
+10
+00:01:38,600 --> 00:01:43,729
+a widescreen iPod with touch controls
+
+11
+00:01:52,350 --> 00:01:59,300
+the second is a revolutionary mobile
+
+12
+00:02:07,170 --> 00:02:20,959
+and the third is a breakthrough internet
+communications device so three things a
+
+13
+00:02:20,959 --> 00:02:26,550
+widescreen iPod with touch controls a
+revolutionary mobile phone and a
+
+14
+00:02:26,550 --> 00:02:37,050
+breakthrough internet communications
+device an iPod a phone and an Internet
+
+15
+00:02:37,050 --> 00:02:44,330
+communicator an iPod a phone
+
+16
+00:02:49,090 --> 00:02:57,069
+these are not three separate devices
+this is one device
+
+17
+00:02:59,050 --> 00:03:04,740
+and we are calling it iPhone
+
+18
+00:03:05,010 --> 00:03:10,700
+today
+today Apple is going to reinvent the
+
+19
+00:03:10,700 --> 00:03:18,870
+phone and here it is
+
+20
+00:03:19,530 --> 00:03:22,130
+No
+
+21
+00:03:22,450 --> 00:03:29,989
+actually here it is but we're gonna
+leave it there for now so before we get
+
+22
+00:03:29,989 --> 00:03:32,380
+into it
+
+23
+00:03:32,459 --> 00:03:37,709
+let me let me talk about a category of
+things the most advanced phones are
+
+24
+00:03:37,709 --> 00:03:45,120
+called smart phones so they say and they
+typically combine a phone plus some
+
+25
+00:03:45,120 --> 00:03:50,219
+email capability plus they say it's the
+internet or the baby internet into one
+
+26
+00:03:50,219 --> 00:03:55,379
+device and they all have these plastic
+little keyboards on them and the problem
+
+27
+00:03:55,379 --> 00:04:01,859
+is that they're not so smart and they're
+not so easy to use so if you kind of
+
+28
+00:04:01,859 --> 00:04:06,870
+make a you know business school 101
+graph with a smart axis and the easy to
+
+29
+00:04:06,870 --> 00:04:10,950
+use axis follows regular cell phones are
+kind of right there they're not so smart
+
+30
+00:04:10,950 --> 00:04:17,070
+and they're you know not so easy to use
+but smart phones are definitely a little
+
+31
+00:04:17,070 --> 00:04:22,229
+smarter but they actually are harder to
+use they're really complicated just for
+
+32
+00:04:22,229 --> 00:04:26,789
+the basic stuff people have a hard time
+figuring out how to use them well we
+
+33
+00:04:26,789 --> 00:04:30,780
+don't want to do either one of these
+things what we want to do is make a
+
+34
+00:04:30,780 --> 00:04:36,419
+leapfrog product that is way smarter
+than any mobile device has ever been and
+
+35
+00:04:36,419 --> 00:04:47,580
+super easy to use this is what iPhone is
+okay we're gonna reinvent the phone now
+
+36
+00:04:47,580 --> 00:04:59,760
+we're gonna start with a revolutionary
+user interface is the result of years of
+
+37
+00:04:59,760 --> 00:05:05,880
+research and development and of course
+it's an interplay of hardware and
+
+38
+00:05:05,880 --> 00:05:10,530
+software now why do we need a
+revolutionary user interface I mean
+
+39
+00:05:10,530 --> 00:05:16,800
+here's four smartphones right Motorola
+cue the BlackBerry Palm Treo nokia e62
+
+40
+00:05:16,800 --> 00:05:22,169
+the usual suspects and what's wrong with
+their user interfaces well the problem
+
+41
+00:05:22,169 --> 00:05:26,820
+with them is really sort of in the
+bottom 40 they're it's it's this stuff
+
+42
+00:05:26,820 --> 00:05:31,919
+right here they all have these keyboards
+that are there whether you need them or
+
+43
+00:05:31,919 --> 00:05:36,570
+not to be there and they all have these
+control buttons that are fixed in
+
+44
+00:05:36,570 --> 00:05:40,740
+plastic and are the same for every
+application well every application wants
+
+45
+00:05:40,740 --> 00:05:45,689
+a slightly different user interface a
+slightly optimized set of buttons just
+
+46
+00:05:45,689 --> 00:05:49,739
+for it and what happens if you think of
+a great idea six months from now you
+
+47
+00:05:49,739 --> 00:05:53,309
+can't run around and add a button to
+these things they're already shipped so
+
+48
+00:05:53,309 --> 00:05:58,499
+what do you do it doesn't work because
+the buttons and the controls can't
+
+49
+00:05:58,499 --> 00:06:03,299
+change they can't change for each
+application and they can't change down
+
+50
+00:06:03,299 --> 00:06:06,649
+the road if you think of another great
+idea you want to add to this product
+
+51
+00:06:06,649 --> 00:06:12,749
+well how do you solve this hmm
+it turns out we have solved it we solved
+
+52
+00:06:12,749 --> 00:06:18,659
+it in computers 20 years ago we solved
+it with a bitmap screen that could
+
+53
+00:06:18,659 --> 00:06:25,169
+display anything we want put any user
+interface up and a pointing device we
+
+54
+00:06:25,169 --> 00:06:29,759
+solved it with the mouse right we solve
+this problem so how are we gonna take
+
+55
+00:06:29,759 --> 00:06:34,619
+this to a mobile device but what we're
+gonna do is get rid of all these buttons
+
+56
+00:06:34,619 --> 00:06:42,779
+and just make a giant screen a giant
+screen now how are we gonna communicate
+
+57
+00:06:42,779 --> 00:06:46,019
+this we don't want to carry around a
+mouse right so what are we gonna do
+
+58
+00:06:46,019 --> 00:06:52,279
+Oh a stylus right we're gonna use a
+stylus No
+
+59
+00:06:52,279 --> 00:06:57,689
+who wants a stylus you have to get them
+and put them away and you'll lose them
+
+60
+00:06:57,689 --> 00:07:01,139
+yuck
+nobody wants a stylus so let's not use a
+
+61
+00:07:01,139 --> 00:07:05,459
+stylus we're going to use the best
+pointing device in the world we're gonna
+
+62
+00:07:05,459 --> 00:07:09,149
+use a pointing device that we're all
+born with were born with ten of them
+
+63
+00:07:09,149 --> 00:07:13,169
+we're gonna use our fingers we're going
+to touch us with our fingers and we have
+
+64
+00:07:13,169 --> 00:07:19,439
+invented a new technology called
+multi-touch which is phenomenal it works
+
+65
+00:07:19,439 --> 00:07:27,569
+like magic you don't need a stylus it's
+far more accurate than any touch display
+
+66
+00:07:27,569 --> 00:07:34,259
+that's ever been shipped it ignores
+unintended touches it's super smart you
+
+67
+00:07:34,259 --> 00:07:40,909
+can do multi-finger gestures on it and
+boy have we patented it
+
+68
+00:07:43,850 --> 00:07:53,910
+so we've been very lucky to have brought
+a few revolutionary user interfaces to
+
+69
+00:07:53,910 --> 00:08:00,510
+the market in our time
+first was the mouse the second was the
+
+70
+00:08:00,510 --> 00:08:06,240
+click wheel and now we're gonna bring
+multi-touch to the market and each of
+
+71
+00:08:06,240 --> 00:08:11,490
+these revolutionary user interfaces has
+made possible a revolutionary product
+
+72
+00:08:11,490 --> 00:08:18,840
+the Mac the iPod and now the iPhone so a
+revolutionary user interface we're gonna
+
+73
+00:08:18,840 --> 00:08:27,090
+build on top of that with software now
+software on mobile phones is like it's
+
+74
+00:08:27,090 --> 00:08:33,539
+like baby software it's not so powerful
+and today we're gonna show you a
+
+75
+00:08:33,539 --> 00:08:38,460
+software or breakthrough software that's
+at least five years ahead of what's on
+
+76
+00:08:38,460 --> 00:08:44,060
+any other phone now how do we do this
+well we start with a strong foundation
+
+77
+00:08:44,060 --> 00:08:48,410
+iPhone runs OS 10
+
+78
+00:08:53,010 --> 00:08:58,140
+why
+why would we want to run such a
+
+79
+00:08:58,140 --> 00:09:02,790
+sophisticated operating system on a
+mobile device well because it's got
+
+80
+00:09:02,790 --> 00:09:07,110
+everything we need
+it's got multitasking it's got the best
+
+81
+00:09:07,110 --> 00:09:11,430
+networking it already knows how to power
+manage we've been doing this on mobile
+
+82
+00:09:11,430 --> 00:09:16,800
+computers for years it's got awesome
+security and the right apps it's got
+
+83
+00:09:16,800 --> 00:09:22,110
+everything from cocoa and the graphics
+and it's got core animation built in and
+
+84
+00:09:22,110 --> 00:09:27,209
+it's got the audio and video that OS 10
+is famous for it's God all the stuff we
+
+85
+00:09:27,209 --> 00:09:33,680
+want and it's built right in to iPhone
+and that has led us create desktop class
+
+86
+00:09:33,680 --> 00:09:40,860
+applications and networking right not
+the crippled stuff that you find on most
+
+87
+00:09:40,860 --> 00:09:47,100
+phones this is real desktop class
+applications now you know one of the
+
+88
+00:09:47,100 --> 00:09:51,510
+pioneers of our industry Alan Kay has
+had a lot of great quotes throughout the
+
+89
+00:09:51,510 --> 00:09:57,120
+years and I ran across one of them
+recently that explains how we look at
+
+90
+00:09:57,120 --> 00:10:02,180
+this explains why we go about doing
+things the way we do because we love
+
+91
+00:10:02,180 --> 00:10:08,850
+software and here's the quote people who
+are really serious about software should
+
+92
+00:10:08,850 --> 00:10:13,800
+make their own hardware you know Alan
+said this thirty years ago
+
+93
+00:10:13,800 --> 00:10:19,410
+and this is how we feel about it and so
+we're bringing breakthrough software to
+
+94
+00:10:19,410 --> 00:10:23,940
+a mobile device for the first time it's
+five years ahead of anything on any
+
+95
+00:10:23,940 --> 00:10:29,130
+other phone the second thing we're doing
+is we're learning from the iPod syncing
+
+96
+00:10:29,130 --> 00:10:33,560
+with iTunes you know we're gonna ship
+our hundred millionth iPod this year and
+
+97
+00:10:33,560 --> 00:10:39,390
+that's a tens of millions of people that
+know how to sync these devices with
+
+98
+00:10:39,390 --> 00:10:45,270
+their PCs or Mac and sync all of their
+media right onto their iPod right so you
+
+99
+00:10:45,270 --> 00:10:49,560
+just drop your iPod in and it
+automatically syncs you're gonna do the
+
+100
+00:10:49,560 --> 00:10:54,690
+same thing with iPhone it automatically
+syncs to your PC or Mac right through
+
+101
+00:10:54,690 --> 00:10:59,670
+iTunes and iTunes is going to sync all
+your media onto your iPhone your music
+
+102
+00:10:59,670 --> 00:11:05,640
+your audio books podcasts movies TV
+shows music videos but it also syncs a
+
+103
+00:11:05,640 --> 00:11:10,230
+ton of data your contacts your calendars
+photos which you can get on your iPod
+
+104
+00:11:10,230 --> 00:11:15,510
+today your notes your your bookmarks
+from your web browser your email
+
+105
+00:11:15,510 --> 00:11:18,990
+accounts your whole email setup all that
+stuff can be moved over to iPhone
+
+106
+00:11:18,990 --> 00:11:24,420
+completely automatically it's really
+nice and we do it we do it through
+
+107
+00:11:24,420 --> 00:11:29,880
+iTunes again you go to iTunes and you
+set it up just like you'd set up an iPod
+
+108
+00:11:29,880 --> 00:11:35,399
+or an Apple TV and you set up what you
+want sync to your iPhone and it's just
+
+109
+00:11:35,399 --> 00:11:43,440
+like an iPod charge and sync
+so sync with iTunes third thing I want
+
+110
+00:11:43,440 --> 00:11:48,329
+to talk about a little is design we've
+designed something wonderful for your
+
+111
+00:11:48,329 --> 00:11:56,160
+hand just wonderful and this is what it
+looks like it's got a three-and-a-half
+
+112
+00:11:56,160 --> 00:12:01,829
+inch screen on it it's really big and
+it's the highest resolution screen we've
+
+113
+00:12:01,829 --> 00:12:04,589
+ever shipped it's a hundred and sixty
+pixels per inch
+
+114
+00:12:04,589 --> 00:12:09,600
+highest we've ever shipped it's gorgeous
+and on the front there's only one button
+
+115
+00:12:09,600 --> 00:12:13,380
+down there we call it the home button it
+takes you home from wherever you are and
+
+116
+00:12:13,380 --> 00:12:17,639
+that's it
+let's take a look aside it's really thin
+
+117
+00:12:17,639 --> 00:12:22,350
+it's thinner than any smartphone out
+there at eleven point six millimeters
+
+118
+00:12:22,350 --> 00:12:27,540
+thinner than the Q thinner than the
+Black Jack thinner than all of them it's
+
+119
+00:12:27,540 --> 00:12:31,560
+really nice and we got some controls on
+the side we got a little switch for ring
+
+120
+00:12:31,560 --> 00:12:36,410
+and silent we've got a volume up and
+down control let's look at the back on
+
+121
+00:12:36,410 --> 00:12:40,350
+the back the biggest thing of note is we
+got a two megapixel camera built right
+
+122
+00:12:40,350 --> 00:12:47,339
+in the other side and we're back on the
+front so let's take a look at the top
+
+123
+00:12:47,339 --> 00:12:52,829
+now we've got a headset jack
+three-and-a-half millimeter all your
+
+124
+00:12:52,829 --> 00:12:57,540
+iPod headphones fit right in we've got a
+place a little tray for your SIM card
+
+125
+00:12:57,540 --> 00:13:02,399
+and we've got one switch for sleeping
+wake just push it to go to sleep push it
+
+126
+00:13:02,399 --> 00:13:09,810
+to wake up let's take a look at the
+bottom we've got a speaker you've got a
+
+127
+00:13:09,810 --> 00:13:17,339
+microphone and we've got our 30 pin iPod
+connector so that's the bottom now we've
+
+128
+00:13:17,339 --> 00:13:22,350
+also got some stuff you can't see we've
+got three really advanced sensors
+
+129
+00:13:22,350 --> 00:13:26,730
+built into this phone the first one is a
+proximity sensor it senses when physical
+
+130
+00:13:26,730 --> 00:13:31,020
+objects get close so when you bring
+iPhone up to your ear to take a phone
+
+131
+00:13:31,020 --> 00:13:35,940
+call it turns off the display and it
+turns off the touch sensor instantly why
+
+132
+00:13:35,940 --> 00:13:39,210
+do you want to do that well one to save
+battery but - so you don't get spurious
+
+133
+00:13:39,210 --> 00:13:42,540
+inputs from your face into the touch
+screen just automatically turns them off
+
+134
+00:13:42,540 --> 00:13:46,050
+take it away boom it's back on so it's
+got a proximity sensor built in it's got
+
+135
+00:13:46,050 --> 00:13:49,800
+an ambient light sensor as well we sense
+the ambient lighting conditions and
+
+136
+00:13:49,800 --> 00:13:53,310
+adjust the brightness of the display to
+match the ambient lighting conditions
+
+137
+00:13:53,310 --> 00:13:57,960
+again better user experience saves power
+and the third thing we've got is an
+
+138
+00:13:57,960 --> 00:14:01,830
+accelerometer so that we can tell when
+you switch from portrait to landscape
+
+139
+00:14:01,830 --> 00:14:04,440
+it's pretty cool you show it to you in a
+minute
+
+140
+00:14:04,440 --> 00:14:12,720
+so three advanced sensors built-in so
+let's go ahead and turn it on this is
+
+141
+00:14:12,720 --> 00:14:20,070
+the size of it it fits beautifully in
+the palm of your hand so an iPod phone
+
+142
+00:14:20,070 --> 00:14:29,840
+and an Internet communicator let's start
+with the iPod you can touch your music
+
+143
+00:14:29,840 --> 00:14:36,120
+you can just touch your music it's so
+cool you got a widescreen video you can
+
+144
+00:14:36,120 --> 00:14:42,320
+find your music even faster
+gorgeous album art on this display
+
+145
+00:14:42,320 --> 00:14:50,700
+built-in speaker and why not cover flow
+first time ever on an iPod and so rather
+
+146
+00:14:50,700 --> 00:14:54,680
+than talk about this some more let me
+show it to you
+
+147
+00:15:01,530 --> 00:15:08,530
+all righty now I've got some special
+special iPhones up here they've got a
+
+148
+00:15:08,530 --> 00:15:11,920
+little special board in them enough so I
+can get some digital video out I got a
+
+149
+00:15:11,920 --> 00:15:16,720
+little cord here which goes up to these
+projectors and so I got some great
+
+150
+00:15:16,720 --> 00:15:19,300
+images and you get to see what it really
+looks like
+
+151
+00:15:19,300 --> 00:15:22,540
+so let me I've got a camera here so you
+can see what I'm doing with my finger
+
+152
+00:15:22,540 --> 00:15:28,030
+for a few seconds and let me go ahead
+and get that picture within picture up
+
+153
+00:15:28,030 --> 00:15:32,200
+I'm going to go ahead and just push the
+sleep/wake button there we go right
+
+154
+00:15:32,200 --> 00:15:37,960
+there and to unlock the phone I just
+take my finger and slide it across all
+
+155
+00:15:37,960 --> 00:15:42,490
+right I'm gonna see that again
+they sleep we wanted something that you
+
+156
+00:15:42,490 --> 00:15:47,710
+couldn't do by accident in your pocket
+and just slide it across boom and this
+
+157
+00:15:47,710 --> 00:15:51,940
+is the home screen of iPhone right here
+and so if I want to get in the iPod I
+
+158
+00:15:51,940 --> 00:15:55,420
+just go down that lower right-hand
+corner and push this icon right here and
+
+159
+00:15:55,420 --> 00:16:00,280
+boom I'm in the iPod I want to get home
+I push the home button right here and
+
+160
+00:16:00,280 --> 00:16:06,340
+I'm home back in the iPod I'm back in
+the iPod now here I am you see five
+
+161
+00:16:06,340 --> 00:16:11,410
+buttons across the bottom playlists
+artists songs videos and more I'm an
+
+162
+00:16:11,410 --> 00:16:15,490
+artist right now well how do i scroll
+through my list of artists how do I do
+
+163
+00:16:15,490 --> 00:16:21,390
+this I just take my finger and I scroll
+
+164
+00:16:29,260 --> 00:16:33,670
+I mean that cool little rubber banding
+up when I run off the edge and if I want
+
+165
+00:16:33,670 --> 00:16:36,430
+to pick somebody let's say I want to
+pick the Beatles I just tap them and
+
+166
+00:16:36,430 --> 00:16:39,370
+here's the Beatles songs with their
+albums right here
+
+167
+00:16:39,370 --> 00:16:44,410
+want to play Sgt pepper's I just hit Sgt
+pepper's right there and you know it'll
+
+168
+00:16:44,410 --> 00:16:49,660
+help for my friends look at this
+gorgeous album artwork here of course I
+
+169
+00:16:49,660 --> 00:16:58,990
+got a blow in control now I've got a
+little button up in the corner right
+
+170
+00:16:58,990 --> 00:17:02,410
+here you can see in the upper right hand
+corner I can hit that and flip the album
+
+171
+00:17:02,410 --> 00:17:07,449
+art around there's all the other songs
+back here and I can play lovely Rita if
+
+172
+00:17:07,449 --> 00:17:14,410
+I want to flip it back around
+very simple alright I can set some stars
+
+173
+00:17:14,410 --> 00:17:25,500
+back here just by setting the arrows
+that's a 5 stuff yeah
+
+174
+00:17:31,380 --> 00:17:35,580
+let me show you something else I just
+take my unit here and I turn it
+
+175
+00:17:35,580 --> 00:17:44,210
+landscape mode oh look what happens I'm
+in cover flow what's going to Dylan here
+
+176
+00:17:44,210 --> 00:17:52,490
+let's play like a rolling stone
+
+177
+00:17:52,490 --> 00:17:55,840
+I just come through
+
+178
+00:17:55,840 --> 00:18:03,669
+come through my albums real easy any
+time I find something I like I'm just
+
+179
+00:18:03,669 --> 00:18:10,440
+turned around play something that easy
+
+180
+00:18:29,650 --> 00:18:35,350
+it's that simple
+and that great yeah
+
+181
+00:18:45,610 --> 00:18:52,640
+all right I could play with this for a
+long time now again I've got playlists
+
+182
+00:18:52,640 --> 00:18:57,410
+here I can go into my playlists I've got
+artists I've got songs I've got more
+
+183
+00:18:57,410 --> 00:19:01,010
+over here I've got you know albums I got
+a great album view again that shows all
+
+184
+00:19:01,010 --> 00:19:06,110
+my album artwork right here if I want
+and I've also got audiobooks and
+
+185
+00:19:06,110 --> 00:19:10,100
+compilations since things like that I've
+also got videos here so I push videos
+
+186
+00:19:10,100 --> 00:19:14,810
+and I've got here I've got a pod cavity
+of podcasts loaded on in a music video
+
+187
+00:19:14,810 --> 00:19:18,760
+and I've got TV show in a movie and I'd
+like to just show you the TV show here
+
+188
+00:19:18,760 --> 00:19:24,940
+this is an episode from the office all
+videos we look at in Atlanta NBC
+
+189
+00:19:24,940 --> 00:19:27,940
+presentation
+
+190
+00:19:33,260 --> 00:19:40,880
+who are you faxing so early in the
+morning Oh Ana who explained I don't
+
+191
+00:19:40,880 --> 00:19:45,890
+have a ton of contact with his grand
+branch but before I left I took a box of
+
+192
+00:19:45,890 --> 00:19:53,750
+Dwight's stationery so from time to time
+I send Dwight faxes from himself from
+
+193
+00:19:53,750 --> 00:19:58,640
+the future
+Dwight at 8 a.m. today someone poisons
+
+194
+00:19:58,640 --> 00:20:03,890
+to coffee do not drink the coffee
+more instructions will follow cordially
+
+195
+00:20:03,890 --> 00:20:07,210
+future Dwight
+
+196
+00:20:17,850 --> 00:20:25,929
+we have touch controls on here of course
+and that awesome awesome let's go and I
+
+197
+00:20:25,929 --> 00:20:29,409
+want to show you a movie playing let's
+play Pirates of the Caribbean the second
+
+198
+00:20:29,409 --> 00:20:40,620
+one here great movie by the way and now
+this is a widescreen movie so I just
+
+199
+00:20:40,620 --> 00:20:45,700
+DoubleTap and I can see the whole thing
+here all right off the screen whichever
+
+200
+00:20:45,700 --> 00:20:48,029
+I like
+
+201
+00:20:56,600 --> 00:21:01,549
+and again I've got on-screen controls
+here it's cool so we can be watching
+
+202
+00:21:01,549 --> 00:21:14,870
+future length movies just like this
+alrighty so that is the iPod pretty cool
+
+203
+00:21:14,870 --> 00:21:22,490
+huh
+we've just started so again touch your
+
+204
+00:21:22,490 --> 00:21:26,240
+music just scroll through your songs
+scroll through your playlist that's
+
+205
+00:21:26,240 --> 00:21:30,799
+incredible widescreen video like you've
+never seen on a portable device 160
+
+206
+00:21:30,799 --> 00:21:40,009
+pixels per inch gorgeous screen quality
+gorgeous album art and Cover Flow it's
+
+207
+00:21:40,009 --> 00:21:43,360
+the best ipod we've ever made
+
+208
+00:21:43,509 --> 00:21:51,440
+again some of the screenshots it's
+unbelievable here's some album art I
+
+209
+00:21:51,440 --> 00:21:56,000
+just put up so you see what it looks
+like just no matter what you like it
+
+210
+00:21:56,000 --> 00:21:59,289
+looks pretty doggone gorgeous
+
+211
+00:22:03,690 --> 00:22:14,150
+and of course coverflow and video with
+on-screen controls
+
+212
+00:22:14,240 --> 00:22:21,210
+you know I was showing this to somebody
+I was giving a demo to somebody a little
+
+213
+00:22:21,210 --> 00:22:26,010
+while ago who had never seen this before
+inside Apple and I finished the demo I
+
+214
+00:22:26,010 --> 00:22:36,360
+said what do you think he told me this
+he said you had me at school so the
+
+215
+00:22:36,360 --> 00:22:41,100
+iPhone with the most amazing iPod ever
+you can now touch your music so that's
+
+216
+00:22:41,100 --> 00:22:47,940
+the iPod now let's take a look at a
+revolutionary phone we want to reinvent
+
+217
+00:22:47,940 --> 00:22:57,050
+the phone now what's the killer app the
+killer app is making calls it's amazing
+
+218
+00:22:57,050 --> 00:23:02,610
+it's amazing how hard it is to make
+calls on most phones most people
+
+219
+00:23:02,610 --> 00:23:06,750
+actually dial them every time most
+people don't have very many numbers in
+
+220
+00:23:06,750 --> 00:23:10,800
+their address book they use their
+recents as their address book right how
+
+221
+00:23:10,800 --> 00:23:15,780
+many of you do that I bet more than a
+few so we want to let you use contacts
+
+222
+00:23:15,780 --> 00:23:20,700
+like never before you can sync your
+iPhone with your PC or Mac and bring
+
+223
+00:23:20,700 --> 00:23:25,170
+down all your contacts right into your
+phone so you've got everybody's numbers
+
+224
+00:23:25,170 --> 00:23:30,630
+with you at all times we have something
+that's going to revolutionize voicemail
+
+225
+00:23:30,630 --> 00:23:35,520
+today we call it visual voicemail
+wouldn't it be great if you didn't if
+
+226
+00:23:35,520 --> 00:23:38,580
+you had six voicemails if you didn't
+have to listen to five of them first
+
+227
+00:23:38,580 --> 00:23:41,520
+before you wanted to listen to the sixth
+will not be great if you have
+
+228
+00:23:41,520 --> 00:23:47,190
+random-access voicemail well we've got
+it just like email you can go directly
+
+229
+00:23:47,190 --> 00:23:52,220
+to the voicemails that interest you
+excellent all of the audio quality
+
+230
+00:23:52,220 --> 00:23:59,150
+iPhone is a quad-band GSM + H phone we
+have decided
+
+231
+00:23:59,150 --> 00:24:03,990
+we've decided to go with the most
+popular international standard which is
+
+232
+00:24:03,990 --> 00:24:09,900
+GSM we're on that bandwagon headed on
+that roadmap and plan to make 3G phones
+
+233
+00:24:09,900 --> 00:24:14,880
+and all sorts of other amazing things in
+the future so quad bad gsm plus h and of
+
+234
+00:24:14,880 --> 00:24:23,730
+course we have Wi-Fi and bluetooth 2.0
+EDR built-in as well and so this is what
+
+235
+00:24:23,730 --> 00:24:28,380
+it looks like when you get a call this
+is what it sounds like it's one of our
+
+236
+00:24:28,380 --> 00:24:37,410
+ringtones you can pick of course so I
+want to show you four things I want to
+
+237
+00:24:37,410 --> 00:24:46,500
+show you the phone app photos got a
+calendar and SMS messaging the kind of
+
+238
+00:24:46,500 --> 00:24:52,380
+things you would find on a typical phone
+but in a very untypical way now so let's
+
+239
+00:24:52,380 --> 00:25:04,110
+go ahead take a look so let's go to our
+phone first you see that icon in the
+
+240
+00:25:04,110 --> 00:25:08,820
+lower left-hand corner the phone I just
+push it right here and boom I'm in the
+
+241
+00:25:08,820 --> 00:25:13,140
+phone and I've got five buttons across
+the bottom favorites recents contacts
+
+242
+00:25:13,140 --> 00:25:16,950
+keypad and voicemail I'm in contacts
+right now again how do I move around my
+
+243
+00:25:16,950 --> 00:25:22,230
+contacts I just scroll through them and
+so let's say I want to make a call to
+
+244
+00:25:22,230 --> 00:25:27,120
+Johnny I've I can just push here and I
+see Johnny Ives context with all his
+
+245
+00:25:27,120 --> 00:25:31,830
+information his three phone numbers his
+email whatever else is address whatever
+
+246
+00:25:31,830 --> 00:25:37,140
+else I've got it's all in one place and
+if I want to call Johnny all I do is
+
+247
+00:25:37,140 --> 00:25:41,730
+push his phone number I'll call his
+mobile number right now and now we are
+
+248
+00:25:41,730 --> 00:25:52,820
+calling Johnny here it turned on a
+speaker phone like this if I wanted to
+
+249
+00:25:52,820 --> 00:26:00,210
+hey Johnny how you doing well it's been
+two and a half years and I can't tell
+
+250
+00:26:00,210 --> 00:26:06,260
+you how thrilled I am to make the first
+public phone call with iPhone
+
+251
+00:26:14,570 --> 00:26:18,639
+I I remember when we first started
+working on this and it's just it's just
+
+252
+00:26:18,639 --> 00:26:22,789
+unbelievable whoa whoa what is this I've
+got another call coming in Johnny can I
+
+253
+00:26:22,789 --> 00:26:33,979
+put you on hold for a minute okay so I
+put Johnny on hold and hi Phil all right
+
+254
+00:26:33,979 --> 00:26:37,489
+Phil as you can see it's put it's put
+Johnny on hold and feel I can just touch
+
+255
+00:26:37,489 --> 00:26:42,769
+Johnny and bring Johnny back hey Johnny
+you there hey listen Phil called did you
+
+256
+00:26:42,769 --> 00:26:50,749
+mind if I conference them in you can see
+the button has changed to merge calls
+
+257
+00:26:50,749 --> 00:26:54,409
+right there in the middle so I just push
+that right here and now I've created a
+
+258
+00:26:54,409 --> 00:26:57,009
+conference call
+
+259
+00:27:05,930 --> 00:27:11,360
+johnny you there yeah Phil you there oh
+
+260
+00:27:11,780 --> 00:27:17,550
+so here we are and now listen I got to
+get back to my key notes so if I want to
+
+261
+00:27:17,550 --> 00:27:21,780
+do that what I mean I just touch this
+arrow right here and I'm gonna go ahead
+
+262
+00:27:21,780 --> 00:27:26,280
+and take Johnny private here and put
+Phil on hold Johnny do you have anything
+
+263
+00:27:26,280 --> 00:27:34,950
+to say on the first phone call it's not
+too shabby
+
+264
+00:27:34,950 --> 00:27:39,870
+you take care of Johnny and I end this
+call and it fills on hold I take him off
+
+265
+00:27:39,870 --> 00:27:45,080
+a hold Phil thanks very much I got to
+get back to the keynote now bye-bye
+
+266
+00:27:45,080 --> 00:27:48,470
+all righty
+
+267
+00:27:53,390 --> 00:27:58,630
+so
+now I've also got a way to make a list
+
+268
+00:27:58,630 --> 00:28:02,080
+of favorites here from my most often
+called numbers so I can just touch it
+
+269
+00:28:02,080 --> 00:28:06,220
+once and dial dial the number and I
+might want to add somebody to favor it
+
+270
+00:28:06,220 --> 00:28:09,070
+so let's say I want to add Phil Schiller
+I just push that plus button in the
+
+271
+00:28:09,070 --> 00:28:13,780
+upper right hand corner right there and
+I'll pop my favorites and I can just go
+
+272
+00:28:13,780 --> 00:28:20,230
+to the s is here and there's Phil so
+Phil Schiller right there and I'll put
+
+273
+00:28:20,230 --> 00:28:24,340
+let's say I want to put Phil's work
+number and it's added Phil right there
+
+274
+00:28:24,340 --> 00:28:27,340
+you can see the favorites I can edit
+favorites by pushing the edit button in
+
+275
+00:28:27,340 --> 00:28:31,060
+the upper left-hand corner and I can
+move Phil up if I want to you know maybe
+
+276
+00:28:31,060 --> 00:28:36,670
+the top and let's say I'm not gonna you
+know type Tony's changed his number I
+
+277
+00:28:36,670 --> 00:28:39,400
+got to update this anyway so I'm gonna
+get rid of that and I could just remove
+
+278
+00:28:39,400 --> 00:28:43,780
+Tony boom there we go it's that simple
+to edit these things very very easy
+
+279
+00:28:43,780 --> 00:28:48,160
+I've got recents right here which is all
+my recent phone calls if I want to see
+
+280
+00:28:48,160 --> 00:28:51,160
+the ones I've missed which you're in red
+I can just go up and touch that button
+
+281
+00:28:51,160 --> 00:28:55,930
+at the top and boom those are all the
+ones I've missed and those are all the
+
+282
+00:28:55,930 --> 00:29:01,480
+calls that I've placed or have done if I
+want to dial the phone if I'm real last
+
+283
+00:29:01,480 --> 00:29:05,440
+century
+I can push keypad here and I can dial a
+
+284
+00:29:05,440 --> 00:29:10,890
+call just with oops called for sorry
+wrong number
+
+285
+00:29:10,890 --> 00:29:20,980
+4:08 16 and it formats the numbers and
+if I want to I can just keep dialing
+
+286
+00:29:20,980 --> 00:29:24,430
+let's say it's a European number and the
+numbers just keep getting smaller real
+
+287
+00:29:24,430 --> 00:29:29,950
+simple very simple to that with a keypad
+now let me show you visual voicemail
+
+288
+00:29:29,950 --> 00:29:36,190
+this is so cool this is a collaboration
+that we've done which I'll talk more
+
+289
+00:29:36,190 --> 00:29:43,300
+about later and it allows us to have
+random access voicemail go directly to
+
+290
+00:29:43,300 --> 00:29:46,540
+the voicemails we want so as an example
+I come to my voicemail I know there's
+
+291
+00:29:46,540 --> 00:29:53,860
+one by Al Gore I want to hear that one I
+just push it I'm here in Nashville
+
+292
+00:29:53,860 --> 00:29:59,260
+training people to give my slide show
+but I wanted to say congratulations on
+
+293
+00:29:59,260 --> 00:30:04,890
+the iPhone it is unbelievably cool good
+luck with the presentation call me later
+
+294
+00:30:04,890 --> 00:30:08,890
+now if I want to call al back right now
+I can just push that callback button
+
+295
+00:30:08,890 --> 00:30:11,830
+but I want to listen to one from Tim
+Cook I got here so let me listen to Tim
+
+296
+00:30:11,830 --> 00:30:18,070
+Davis Tim I've got the results for last
+quarter revenue was if you know I'll
+
+297
+00:30:18,070 --> 00:30:27,190
+just wait and tell you what you get it
+first and as awesome and so I've got
+
+298
+00:30:27,190 --> 00:30:31,510
+voicemail how I want to listen to it
+when I want to listen to it in any order
+
+299
+00:30:31,510 --> 00:30:37,420
+I want to listen to it with visual
+voicemail so that is a quick tour of the
+
+300
+00:30:37,420 --> 00:30:43,330
+phone app now what I want to do is show
+you SMS texting so I just go to that SMS
+
+301
+00:30:43,330 --> 00:30:48,429
+icon in the upper left hand corner and
+push it and I not only have SMS texting
+
+302
+00:30:48,429 --> 00:30:54,010
+but I have multiple sessions so I can be
+carrying on conversations with people
+
+303
+00:30:54,010 --> 00:30:57,940
+and every time I get a new message from
+them I'll be alerted to that and I can
+
+304
+00:30:57,940 --> 00:31:01,750
+go check it out so as an example here
+I've got Eddy Cue and I've been carrying
+
+305
+00:31:01,750 --> 00:31:05,440
+on a conversation with Eddie and I just
+tap this and here's the conversation
+
+306
+00:31:05,440 --> 00:31:08,799
+I've been carrying on right here right
+and if there's a new message look at me
+
+307
+00:31:08,799 --> 00:31:12,820
+so there's a new message from Phil and
+let's see the conversation was what hey
+
+308
+00:31:12,820 --> 00:31:16,059
+Steve hi
+still on for dinner tonight absolutely
+
+309
+00:31:16,059 --> 00:31:20,110
+your turn to pick I've picked sushi Ron
+how about seven o'clock tonight and I
+
+310
+00:31:20,110 --> 00:31:23,679
+said I can just say you know sounds
+great I've got this little keyboard
+
+311
+00:31:23,679 --> 00:31:29,020
+which is phenomenal it does air for
+prevention and correction and not that I
+
+312
+00:31:29,020 --> 00:31:32,200
+wouldn't make some I probably will but
+it's actually really fast the type on
+
+313
+00:31:32,200 --> 00:31:34,630
+it's faster than all these little
+plastic keyboards and all these smart
+
+314
+00:31:34,630 --> 00:31:38,790
+phones so I can just say sounds great
+
+315
+00:31:42,940 --> 00:31:46,299
+see you there
+
+316
+00:31:53,220 --> 00:31:59,989
+and I can send that and there it is
+
+317
+00:32:06,619 --> 00:32:10,710
+and when Phil messages me back I'll be
+alerted I'll see the dot and I can just
+
+318
+00:32:10,710 --> 00:32:13,349
+go pick up that conversation where it
+left off if I want to send a message to
+
+319
+00:32:13,349 --> 00:32:17,849
+Eddie I or Scott I just push this and
+send a message and go it's so simple
+
+320
+00:32:17,849 --> 00:32:22,289
+so that's SMS messaging and you know I
+again you've seen the keyboard it's
+
+321
+00:32:22,289 --> 00:32:25,799
+pretty awesome we'll come back to that a
+little bit later and the third app I
+
+322
+00:32:25,799 --> 00:32:29,039
+want to show you as part of the phone
+package is photos you know we have a two
+
+323
+00:32:29,039 --> 00:32:33,389
+megapixel camera built-in as I said we
+also have the coolest photo management
+
+324
+00:32:33,389 --> 00:32:37,200
+app ever certainly on a mobile device
+but I think maybe ever
+
+325
+00:32:37,200 --> 00:32:41,460
+and so here's here's our photos I'm
+gonna go into our photo library and this
+
+326
+00:32:41,460 --> 00:32:44,399
+is our library and again I can just
+scroll through photos here with my
+
+327
+00:32:44,399 --> 00:32:50,399
+finger pretty cool let me go to a photo
+album I'll pick Italy and I just let's
+
+328
+00:32:50,399 --> 00:32:55,289
+start at the top and to go through
+pictures I just swipe them just swipe
+
+329
+00:32:55,289 --> 00:32:59,970
+through my photo library oh there's one
+that's this landscape I can just turn my
+
+330
+00:32:59,970 --> 00:33:08,190
+device and take a look at it
+pretty cool huh right so I can even
+
+331
+00:33:08,190 --> 00:33:14,549
+swipe when I'm in landscape here you
+know missile awesome the other thing I
+
+332
+00:33:14,549 --> 00:33:20,039
+can do is I can take any of these
+pictures and I can make them bigger and
+
+333
+00:33:20,039 --> 00:33:23,429
+so let me go ahead and get the camera
+back up yeah there it is right there
+
+334
+00:33:23,429 --> 00:33:28,379
+I can I can just take my fingers and I
+can we call it the pinch I can bring
+
+335
+00:33:28,379 --> 00:33:31,409
+them closer together and move them
+further apart to make it bigger or
+
+336
+00:33:31,409 --> 00:33:37,399
+smaller and so I can just move them
+further apart and stretch the image
+
+337
+00:33:40,870 --> 00:33:43,740
+and move it around
+
+338
+00:33:46,200 --> 00:33:52,059
+and now
+now what I can do is I can pick to what
+
+339
+00:33:52,059 --> 00:33:56,200
+make this Maya wallpaper and of course I
+could you know jigger it around then and
+
+340
+00:33:56,200 --> 00:34:04,090
+just set the wallpaper and now when I if
+I'm back at home and I go to sleep when
+
+341
+00:34:04,090 --> 00:34:06,490
+I wake up from here on out until I reset
+it
+
+342
+00:34:06,490 --> 00:34:10,450
+that's my wallpaper whenever I'm making
+a call that's what I'm gonna see boom
+
+343
+00:34:10,450 --> 00:34:19,030
+there we go so photos SMS and the phone
+app that is part of our phone package
+
+344
+00:34:19,030 --> 00:34:22,200
+for iPhone
+
+345
+00:34:30,260 --> 00:34:36,720
+get a call again really great color
+management features just scroll through
+
+346
+00:34:36,720 --> 00:34:41,870
+contacts with your finger all the
+information at your fingertips here
+
+347
+00:34:41,870 --> 00:34:53,940
+favorites last century visual voicemail
+calendar SMS texting incredible photo
+
+348
+00:34:53,940 --> 00:34:59,520
+app the ability to just take any picture
+and make it your wallpaper it's pretty
+
+349
+00:34:59,520 --> 00:35:03,870
+unbelievable and I think when you have a
+chance to get your hand on it you'll
+
+350
+00:35:03,870 --> 00:35:09,560
+agree we have reinvented the phone okay
+
+351
+00:35:11,450 --> 00:35:20,370
+so now let's take a look at an internet
+communications device it's part of
+
+352
+00:35:20,370 --> 00:35:26,150
+iPhone so what's this all about well
+we've got some real breakthroughs here
+
+353
+00:35:26,150 --> 00:35:34,680
+start off with we've got rich HTML email
+on iPhone the first time really rich
+
+354
+00:35:34,680 --> 00:35:40,590
+email on a mobile device and it works
+with any IMAP or pop email service you
+
+355
+00:35:40,590 --> 00:35:45,300
+got your favorite mail service it'll
+likely work with it and it's rich text
+
+356
+00:35:45,300 --> 00:35:51,210
+email we wanted the best web browser in
+the world on our phone not a baby web
+
+357
+00:35:51,210 --> 00:35:56,310
+browser or a WAP browser a real web
+browser and we picked the best one in
+
+358
+00:35:56,310 --> 00:36:02,130
+the world Safari and we have Safari
+running on iPhone it is the first fully
+
+359
+00:36:02,130 --> 00:36:12,470
+usable HTML browser on a phone third
+
+360
+00:36:12,610 --> 00:36:21,790
+we have Google Maps Maps satellite
+images directions and traffic this is
+
+361
+00:36:21,790 --> 00:36:27,080
+unbelievable wait till you see it we
+have widgets starting off with weather
+
+362
+00:36:27,080 --> 00:36:33,740
+and stocks and this communicates with
+the internet over edge and Wi-Fi and
+
+363
+00:36:33,740 --> 00:36:37,730
+iPhone automatically the text Wi-Fi and
+switches seamlessly to it you don't have
+
+364
+00:36:37,730 --> 00:36:45,770
+to manage the network it just does the
+right thing now I want to take a second
+
+365
+00:36:45,770 --> 00:36:50,510
+to talk about email we hook up to almost
+any IMAP or pop 3 mail service I just
+
+366
+00:36:50,510 --> 00:36:53,960
+want to give you some examples
+IMAP of course is the best because you
+
+367
+00:36:53,960 --> 00:36:56,960
+can keep your folders and all your email
+on the server and access it from
+
+368
+00:36:56,960 --> 00:37:04,340
+anywhere Yahoo Yahoo Mail is IMAP
+Microsoft Exchange has an IMAP option
+
+369
+00:37:04,340 --> 00:37:06,800
+and obviously dot Mac mail is IMAP as
+well
+
+370
+00:37:06,800 --> 00:37:13,280
+pop3 Google Gmail AOL Mail and most ISPs
+are pop3 email now I want to take a
+
+371
+00:37:13,280 --> 00:37:20,150
+minute and highlight one yahoo mail
+yahoo mail is the biggest mail service
+
+372
+00:37:20,150 --> 00:37:27,140
+in the world they have over a quarter
+billion users biggest email service in
+
+373
+00:37:27,140 --> 00:37:31,070
+the world and today we are announcing
+with yahoo that they are going to
+
+374
+00:37:31,070 --> 00:37:40,010
+provide free push IMAP email to all
+iPhone customers so this isn't just IMAP
+
+375
+00:37:40,010 --> 00:37:44,690
+email it is push IMAP email so when you
+get a message it'll push it right out to
+
+376
+00:37:44,690 --> 00:37:50,480
+the phone for you same as a blackberry
+free IMAP push email from Yahoo so we
+
+377
+00:37:50,480 --> 00:37:54,080
+think this is a pretty big deal so what
+I'd like to do now is I'd like to show
+
+378
+00:37:54,080 --> 00:38:05,230
+you mail Safari Google Maps and widgets
+running on iPhone so let's go see
+
+379
+00:38:11,130 --> 00:38:15,850
+so let's go into male second icon from
+the left on the bottom there I just
+
+380
+00:38:15,850 --> 00:38:20,500
+touch it with my finger and boom I'm
+there and so I've got an inbox here and
+
+381
+00:38:20,500 --> 00:38:26,980
+this is by the way running live on Yahoo
+IMAP email this stuff is coming off of
+
+382
+00:38:26,980 --> 00:38:28,840
+Yahoo's servers somewhere up in the
+cloud
+
+383
+00:38:28,840 --> 00:38:32,290
+and so I say James Vincent here sent me
+an email
+
+384
+00:38:32,290 --> 00:38:40,570
+he's a proud father and there we go and
+I can just scroll here I've got inline
+
+385
+00:38:40,570 --> 00:38:47,230
+photos rich text email there we go let's
+look at another one Phil Schiller she
+
+386
+00:38:47,230 --> 00:38:57,280
+loved the gift again inline photos rich
+text pretty nice shopping list again
+
+387
+00:38:57,280 --> 00:39:01,710
+rich text right here pretty cool
+
+388
+00:39:02,100 --> 00:39:07,000
+directions to sushi Ron for tonight's
+dinner now iPhone of course parses out
+
+389
+00:39:07,000 --> 00:39:10,390
+phone numbers and as you can see there's
+a phone number in blue I can just touch
+
+390
+00:39:10,390 --> 00:39:15,250
+it and boom I'm gonna call this place
+alright I don't really want to call him
+
+391
+00:39:15,250 --> 00:39:20,530
+so I'm gonna end the call here but you
+get the idea and now this last one
+
+392
+00:39:20,530 --> 00:39:24,580
+Kember eScan is one of our marketing
+folks he just returned from Antarctica
+
+393
+00:39:24,580 --> 00:39:30,160
+Ken's a great photographer and he took
+all these great photos of of penguins in
+
+394
+00:39:30,160 --> 00:39:36,640
+Antarctica it's really cool this that's
+great right in your email right on your
+
+395
+00:39:36,640 --> 00:39:42,010
+phone and if I want to by the way I can
+look at my email with a split view just
+
+396
+00:39:42,010 --> 00:39:45,640
+like I do on my computer and so I can
+select something here and just look at
+
+397
+00:39:45,640 --> 00:39:49,120
+it down here if I want to prove my
+messages real fast and just find that
+
+398
+00:39:49,120 --> 00:39:52,000
+one message I was looking for but I
+actually like the full screen view and
+
+399
+00:39:52,000 --> 00:39:56,890
+of course we have a standard inbox and
+drafts and sent and you know in all
+
+400
+00:39:56,890 --> 00:40:00,490
+sorts of folders you can put things in
+as well so it's real email just like
+
+401
+00:40:00,490 --> 00:40:05,200
+you're used to on your computer right
+here on your phone it's extraordinary
+
+402
+00:40:05,200 --> 00:40:14,080
+and again free IMAP email from Yahoo now
+let me go ahead and just create an email
+
+403
+00:40:14,080 --> 00:40:17,260
+message show you what that's like
+so again when I don't need the keyboard
+
+404
+00:40:17,260 --> 00:40:22,390
+it's not there when I do it's there
+want to send a message to let's say Phil
+
+405
+00:40:22,390 --> 00:40:26,710
+I just typed pH and boom Phil Schiller
+its address completion and maybe I'll
+
+406
+00:40:26,710 --> 00:40:32,320
+send one to Scott Forstall as well and
+there's Scott right there and let's say
+
+407
+00:40:32,320 --> 00:40:48,480
+the subject is dinner dinner and you
+know oops see you tonight
+
+408
+00:40:56,590 --> 00:41:00,610
+boom and I just send send sends that
+email and we're done
+
+409
+00:41:00,610 --> 00:41:07,720
+so that is mail full desktop class email
+running on a mobile device alright now I
+
+410
+00:41:07,720 --> 00:41:11,580
+want to show you something incredible I
+
+411
+00:41:14,100 --> 00:41:19,650
+want to show you Safari running on a
+mobile device so let's go to the web and
+
+412
+00:41:19,650 --> 00:41:24,690
+here we are I'm going to load in my
+rather than Apple comm here a little
+
+413
+00:41:24,690 --> 00:41:29,770
+more Universal site I'm going to load in
+the New York Times it's kind of a slow
+
+414
+00:41:29,770 --> 00:41:32,650
+site because it's got a lot of images
+but here we are loading it we're loading
+
+415
+00:41:32,650 --> 00:41:39,370
+it over Wi-Fi right now and rather than
+just give you a web version of the New
+
+416
+00:41:39,370 --> 00:41:43,750
+York Times rather than give you this
+wrapped version all around we're showing
+
+417
+00:41:43,750 --> 00:41:48,160
+you the whole New York Times website and
+there it is and guess what I can do I
+
+418
+00:41:48,160 --> 00:41:53,200
+can just put this into landscape mode
+and there it is right there and I can
+
+419
+00:41:53,200 --> 00:42:01,060
+scroll here if I want scroll up and down
+here boom still loading it in there we
+
+420
+00:42:01,060 --> 00:42:06,520
+go or I can just get back like this now
+this is really great and I can see the
+
+421
+00:42:06,520 --> 00:42:10,030
+whole page but of course I can't read it
+it's a little too small so I can get in
+
+422
+00:42:10,030 --> 00:42:13,480
+with my fingers and pinch it but we have
+an optimization here I can just double
+
+423
+00:42:13,480 --> 00:42:18,190
+tap on anything and it automatically
+fills up the screen with it and I can
+
+424
+00:42:18,190 --> 00:42:21,790
+just scroll around like this and scroll
+over here and I can even make this text
+
+425
+00:42:21,790 --> 00:42:25,770
+bigger if I want to and there it is
+
+426
+00:42:33,450 --> 00:42:38,640
+and just double tap again to get back to
+the full page isn't school and so I'm
+
+427
+00:42:38,640 --> 00:42:43,910
+just look at this there is the New York
+Times and again any article I want boom
+
+428
+00:42:43,910 --> 00:42:55,260
+there we go boom unbelievable
+now you can look at multiple web pages
+
+429
+00:42:55,260 --> 00:42:59,369
+as well you can have multiple web pages
+open so I just push this button in the
+
+430
+00:42:59,369 --> 00:43:03,809
+lower right hand corner shrinks it down
+and I could add a new page if I want and
+
+431
+00:43:03,809 --> 00:43:08,970
+I'll go to Amazon here out of my
+bookmarks so let's go to Amazon and I
+
+432
+00:43:08,970 --> 00:43:14,099
+love to go to the DVD section of Amazon
+and see what DVDs are selling I like it
+
+433
+00:43:14,099 --> 00:43:19,079
+especially when Disney's are at the top
+and so here's a Amazon coming in even
+
+434
+00:43:19,079 --> 00:43:23,099
+before the whole page is loaded I'm just
+gonna double tap on this and and I'm
+
+435
+00:43:23,099 --> 00:43:28,700
+gonna say let's go to the DVD section
+here and now it's doing that
+
+436
+00:43:34,040 --> 00:43:37,670
+and here we are
+
+437
+00:43:41,760 --> 00:43:46,080
+and there's a section over here on the
+right hand side right there and these
+
+438
+00:43:46,080 --> 00:43:49,950
+are the top sellers updated hourly oh
+look Hal's An Inconvenient Truth is
+
+439
+00:43:49,950 --> 00:43:55,470
+number one all right and here's all the
+other movies Grey's Anatomy I like that
+
+440
+00:43:55,470 --> 00:44:00,120
+Pirates of the Caribbean fantastic and
+so I've got this right here and I can go
+
+441
+00:44:00,120 --> 00:44:05,370
+back to the New York Times if I want
+yeah let's zoom up to that picture so we
+
+442
+00:44:05,370 --> 00:44:10,350
+can all see it and again here and that's
+cool just over there go back to this one
+
+443
+00:44:10,350 --> 00:44:15,870
+I can get rid of them just by hitting
+the X and there we go isn't that
+
+444
+00:44:15,870 --> 00:44:19,160
+incredible Safari
+
+445
+00:44:23,720 --> 00:44:29,210
+you know if you've ever used what's
+called a web browser on a mobile phone
+
+446
+00:44:29,210 --> 00:44:35,569
+you'll know how incredible this is I
+hope you never really know because it's
+
+447
+00:44:35,569 --> 00:44:40,549
+it's bad out there today and this is a
+revolution of the first order to really
+
+448
+00:44:40,549 --> 00:44:44,359
+bring the real Internet to your phone
+let me show you some about widgets here
+
+449
+00:44:44,359 --> 00:44:48,890
+let's go to stocks right now we're gonna
+load stock information off the web and
+
+450
+00:44:48,890 --> 00:45:00,650
+just right onto the phone here oh look
+apples up that's great I can look at the
+
+451
+00:45:00,650 --> 00:45:05,990
+graphs here if I want to and that's
+fantastic let's look at the percentages
+
+452
+00:45:05,990 --> 00:45:11,240
+here oh good good good so I've got
+stocks right here and I can go look at
+
+453
+00:45:11,240 --> 00:45:21,680
+the weather let's see what what it's
+like outside 49 degrees but it's
+
+454
+00:45:21,680 --> 00:45:24,440
+supposed to get the 61 today so that's
+good we'll just stay in here till it
+
+455
+00:45:24,440 --> 00:45:29,779
+warms up now I've got Paris right here I
+can have as many of these as I want so
+
+456
+00:45:29,779 --> 00:45:33,260
+it's night time in Paris it's actually
+warmer in Paris at night than it is here
+
+457
+00:45:33,260 --> 00:45:42,640
+today Wow Aspen yeah no snow till later
+in the week and Hawaii oh it's raining
+
+458
+00:45:42,640 --> 00:45:48,500
+that's not good well anyway here's four
+places Hawaii Aspen Paris and San
+
+459
+00:45:48,500 --> 00:45:56,059
+Francisco and again the weather widget
+now to conclude with the internet device
+
+460
+00:45:56,059 --> 00:45:59,359
+section here I want to show you
+something truly remarkable which is
+
+461
+00:45:59,359 --> 00:46:07,760
+Google Maps on iPhone I hit our Maps
+application here and it's coming up and
+
+462
+00:46:07,760 --> 00:46:12,559
+it shows us North America and I'm gonna
+go to Moscone West that's where we are
+
+463
+00:46:12,559 --> 00:46:18,770
+right now and here we are boom that's
+where we are now what I'm gonna do is
+
+464
+00:46:18,770 --> 00:46:22,069
+I'm gonna go look for something I'm
+gonna certainly want a cup of coffee
+
+465
+00:46:22,069 --> 00:46:29,329
+afterwards so I'm just gonna look for
+Starbucks right Starbucks so I'm going
+
+466
+00:46:29,329 --> 00:46:34,110
+to search for Starbucks and sure enough
+there's all the Starbucks
+
+467
+00:46:34,110 --> 00:46:41,950
+now I can get a list of Starbucks here
+so I can pick that one if I want and I
+
+468
+00:46:41,950 --> 00:46:45,340
+can even go look at that Starbucks and
+there it is
+
+469
+00:46:45,340 --> 00:47:03,130
+and let's give them a call good morning
+yes I'd like to order 4,000 lattes to go
+
+470
+00:47:03,130 --> 00:47:07,890
+please no it's just kidding
+wrong number thank you
+
+471
+00:47:18,240 --> 00:47:24,570
+I can zoom in by just again pinching if
+I want to or I can just double click to
+
+472
+00:47:24,570 --> 00:47:29,190
+zoom in and I get just higher and higher
+resolution versions of the map so let's
+
+473
+00:47:29,190 --> 00:47:33,359
+go somewhere else here that I've got
+bookmarked and let's go to Washington
+
+474
+00:47:33,359 --> 00:47:39,089
+monuments and so here is Washington DC
+and I could just double tap and and I'm
+
+475
+00:47:39,089 --> 00:47:43,080
+going in a little further here just
+double tapping in and there's the
+
+476
+00:47:43,080 --> 00:47:47,310
+Washington Monument there and I'll
+double tap in again and but now I want
+
+477
+00:47:47,310 --> 00:47:50,220
+to show you something else
+satellite images so I just hit this
+
+478
+00:47:50,220 --> 00:47:53,339
+button called satellite down at the
+bottom and it's going to replace the map
+
+479
+00:47:53,339 --> 00:47:58,740
+with satellite images there we go
+and I can just double tap in and double
+
+480
+00:47:58,740 --> 00:48:05,700
+tap in again and let's catching up to me
+here there we go and let's double tap in
+
+481
+00:48:05,700 --> 00:48:13,890
+again this is the Washington Monument
+there we go look this you see people
+
+482
+00:48:13,890 --> 00:48:16,040
+down
+
+483
+00:48:19,810 --> 00:48:25,640
+yep
+and that incredible right on my phone
+
+484
+00:48:25,640 --> 00:48:29,850
+it's unbelievable so let's go I've got
+another one the Eiffel Tower which is
+
+485
+00:48:29,850 --> 00:48:35,790
+very cool I set this one not to be loose
+there's the Eiffel Tower there's people
+
+486
+00:48:35,790 --> 00:48:40,770
+at the Eiffel Tower you can see look at
+that incredible and here just one last
+
+487
+00:48:40,770 --> 00:48:50,700
+one I have to show you the Colosseum in
+Rome so again here we are in Rome that's
+
+488
+00:48:50,700 --> 00:48:52,980
+as far as we can go with the map but we
+can go a little further with the
+
+489
+00:48:52,980 --> 00:48:55,500
+satellite
+there's the Colosseum there's the Roman
+
+490
+00:48:55,500 --> 00:49:04,730
+Colosseum satellite imagery right on the
+phone look at that that's the Colosseum
+
+491
+00:49:04,730 --> 00:49:07,730
+unbelievable
+
+492
+00:49:18,290 --> 00:49:26,210
+so all these amazing things this is a
+breakthrough internet communicator built
+
+493
+00:49:26,210 --> 00:49:32,000
+right into iphone the first rich HTML
+email on a phone the first real web
+
+494
+00:49:32,000 --> 00:49:37,270
+browser on a phone best version of
+Google Maps on the planet widgets and
+
+495
+00:49:37,270 --> 00:49:43,100
+all with edge and Wi-Fi networking we're
+very very happy with this again email
+
+496
+00:49:43,100 --> 00:49:50,960
+push email IMAP free yahoo and almost
+any other IMAP and POP mail service you
+
+497
+00:49:50,960 --> 00:50:00,230
+want to hook up to incredible new
+technology for entering text far better
+
+498
+00:50:00,230 --> 00:50:04,850
+than we've seen on phones before a real
+browser on the phone we can see real web
+
+499
+00:50:04,850 --> 00:50:09,619
+pages in portrait or landscape we can
+zoom in on what we want to take a look
+
+500
+00:50:09,619 --> 00:50:20,240
+at more closely Google Maps and widgets
+it's the Internet in your pockets for
+
+501
+00:50:20,240 --> 00:50:24,290
+the first time ever now
+you can't you can't really think about
+
+502
+00:50:24,290 --> 00:50:29,660
+the Internet of course without thinking
+about Google right and for Google what
+
+503
+00:50:29,660 --> 00:50:33,170
+we have on our phone working with them
+is of course Google search we have that
+
+504
+00:50:33,170 --> 00:50:36,530
+built right into the browser just type
+what you want hit Google and you're off
+
+505
+00:50:36,530 --> 00:50:41,000
+and Google Maps we've been working very
+closely with them to make this all
+
+506
+00:50:41,000 --> 00:50:44,000
+happen
+we're thrilled with the results and it's
+
+507
+00:50:44,000 --> 00:50:51,160
+my pleasure now to introduce dr. Eric
+Schmidt Google's CEO
+
+508
+00:50:58,710 --> 00:51:12,180
+halation Steve what an incredible job so
+Steve you know I've had the privilege of
+
+509
+00:51:12,180 --> 00:51:15,960
+joining joining the board and there's a
+lot of relationships between the boards
+
+510
+00:51:15,960 --> 00:51:20,369
+and I thought you know if we just sort
+of merge the companies we could call
+
+511
+00:51:20,369 --> 00:51:28,800
+them Apple goo but I'm not a marketing
+guy what I like about this new device
+
+512
+00:51:28,800 --> 00:51:32,700
+and the new architecture of the Internet
+is that you can actually merge without
+
+513
+00:51:32,700 --> 00:51:38,099
+merging Steve says that each company
+should do the absolutely best thing that
+
+514
+00:51:38,099 --> 00:51:43,200
+they can do every time and I think he's
+shown it once again today and internet
+
+515
+00:51:43,200 --> 00:51:53,400
+architectures right you know internet
+architectures allow you now to take the
+
+516
+00:51:53,400 --> 00:51:57,330
+enormous brain trust that is represented
+by the Apple development team and
+
+517
+00:51:57,330 --> 00:52:02,339
+combine that with the open protocols and
+data services that companies like Google
+
+518
+00:52:02,339 --> 00:52:07,020
+and the others represented that are
+coming up in in a bit to actually put
+
+519
+00:52:07,020 --> 00:52:11,130
+them together in a seamless environment
+for end-users what I particularly like
+
+520
+00:52:11,130 --> 00:52:15,660
+about this is it's the first time it's
+all to come together in one place now
+
+521
+00:52:15,660 --> 00:52:21,119
+from a Google perspective what we've
+done is we've pushed very very hard to
+
+522
+00:52:21,119 --> 00:52:24,750
+partner with others in particular to
+partner with Apple the companies the
+
+523
+00:52:24,750 --> 00:52:29,099
+cultures are similar innovation having
+fun while you're doing it and also
+
+524
+00:52:29,099 --> 00:52:34,440
+working with many many different data
+services so Steve showed a little bit of
+
+525
+00:52:34,440 --> 00:52:38,520
+some of the components some of the
+pieces and so forth that you can do but
+
+526
+00:52:38,520 --> 00:52:42,839
+understand that this is a set of data
+that's from maps and partners and so
+
+527
+00:52:42,839 --> 00:52:46,800
+forth so that you really can get the
+full integration the person doesn't
+
+528
+00:52:46,800 --> 00:52:51,320
+understand how hard it was to get it all
+together it comes together seamlessly
+
+529
+00:52:51,320 --> 00:52:56,460
+from my perspective this is the first of
+a whole new generation of data services
+
+530
+00:52:56,460 --> 00:53:01,410
+where these powerful based cloud
+computers Google being we hope a leading
+
+531
+00:53:01,410 --> 00:53:07,290
+representative provides HTML XML and
+other sophisticated services that the
+
+532
+00:53:07,290 --> 00:53:11,130
+Safari browser that's embedded in the
+iPhone and many other of its type
+
+533
+00:53:11,130 --> 00:53:13,960
+devices and future devices
+Apple will be able to take advantage
+
+534
+00:53:13,960 --> 00:53:21,750
+Steve my congratulations to you and this
+product is going to be hot
+
+535
+00:53:33,280 --> 00:53:42,680
+as a board member you'll get one of the
+first ones yeah okay
+
+536
+00:53:42,680 --> 00:53:47,720
+now you also can't think about the
+internet without thinking about Yahoo
+
+537
+00:53:47,720 --> 00:53:53,000
+and again on the phone we've got Yahoo
+search built right in you can select
+
+538
+00:53:53,000 --> 00:53:56,420
+which one you want to use just type in
+something hit that Yahoo button and boom
+
+539
+00:53:56,420 --> 00:54:03,920
+you're off and of course we also have
+Yahoo IMAP email services and so it is
+
+540
+00:54:03,920 --> 00:54:12,280
+my great pleasure to introduce Jerry
+Yang co-founder and chief Yahoo Jerry
+
+541
+00:54:19,220 --> 00:54:25,280
+thank you thank you thank you Steve I'm
+not a board member of Apple but I would
+
+542
+00:54:25,280 --> 00:54:30,319
+love that one of these two obviously Wow
+all this for a phone pretty incredible
+
+543
+00:54:30,319 --> 00:54:35,060
+and what a great device Steve we are
+really proud at Yahoo to be partnering
+
+544
+00:54:35,060 --> 00:54:40,810
+with Apple on not only the Yahoo IMAP
+email the first one we're doing but also
+
+545
+00:54:40,810 --> 00:54:45,380
+hopefully on a whole variety of other
+popular services from Yahoo one of the
+
+546
+00:54:45,380 --> 00:54:48,859
+things that we're going to be doing with
+Apple is also launching some of our new
+
+547
+00:54:48,859 --> 00:54:52,069
+services that we announced this week the
+Yahoo go Yahoo
+
+548
+00:54:52,069 --> 00:54:56,000
+one search and hopefully we can get
+Yahoo one search which is one of our new
+
+549
+00:54:56,000 --> 00:54:59,810
+products honor this phone which is a
+really innovative way of looking at
+
+550
+00:54:59,810 --> 00:55:03,530
+search you're really able to not get the
+traditional web search results but
+
+551
+00:55:03,530 --> 00:55:07,819
+rather get all the things you want in a
+very concise format aggregated if you're
+
+552
+00:55:07,819 --> 00:55:12,530
+typing things like San Francisco you'll
+get all the local news local weather and
+
+553
+00:55:12,530 --> 00:55:17,270
+local maps all in one place so we're
+looking forward to doing that as Steve
+
+554
+00:55:17,270 --> 00:55:22,819
+said Mayo is a killer app on it on the
+on the phone and Yahoo is really trying
+
+555
+00:55:22,819 --> 00:55:27,619
+to re design and re innovate and
+reinvent the web experience and Internet
+
+556
+00:55:27,619 --> 00:55:31,490
+experience on the mobile devices so on
+the email you can look forward not only
+
+557
+00:55:31,490 --> 00:55:36,109
+to great web services like the best spam
+protection address books integration and
+
+558
+00:55:36,109 --> 00:55:39,740
+a calendar if you're on Yahoo just think
+it's basically like having a blackberry
+
+559
+00:55:39,740 --> 00:55:43,040
+without the exchange server this is
+really going to be really great not only
+
+560
+00:55:43,040 --> 00:55:47,240
+having a seamless experience from your
+PC taken to your mobile internet yeah
+
+561
+00:55:47,240 --> 00:55:52,430
+there's some clapping out there I can
+hear that lastly we want to be able to
+
+562
+00:55:52,430 --> 00:55:56,270
+really take what Apple is doing on the
+phone by reinventing the phone and
+
+563
+00:55:56,270 --> 00:56:01,430
+reinventing the device we want to be
+able to do that on the internet and what
+
+564
+00:56:01,430 --> 00:56:06,230
+we're doing is really being able to take
+great form factors great user
+
+565
+00:56:06,230 --> 00:56:12,380
+experiences and great UI that we're
+taking from not only the web but also in
+
+566
+00:56:12,380 --> 00:56:16,190
+the backend services and translate them
+into a seamless web experience so we're
+
+567
+00:56:16,190 --> 00:56:19,310
+big believers and great hardware and
+great software and we're big believers
+
+568
+00:56:19,310 --> 00:56:23,450
+in taking the web services and web 2.0
+model and take it into the device world
+
+569
+00:56:23,450 --> 00:56:28,700
+so Steve my address you had it all
+please send it to me
+
+570
+00:56:28,700 --> 00:56:33,370
+thanks again straight
+thank you
+
+571
+00:56:40,229 --> 00:56:47,439
+you know it's been great having the two
+greatest companies on the web right down
+
+572
+00:56:47,439 --> 00:56:50,380
+the block
+Google and Yahoo and we've been able to
+
+573
+00:56:50,380 --> 00:56:54,219
+work with these guys really closely and
+it's been an incredible pleasure to work
+
+574
+00:56:54,219 --> 00:56:58,509
+on this great technology and bring it to
+everybody in iphone so thank you guys so
+
+575
+00:56:58,509 --> 00:57:09,549
+much you've really helped us put the
+internet in your pocket so internet
+
+576
+00:57:09,549 --> 00:57:17,709
+communicator an iPod and a phone let's
+put them all together and see what you
+
+577
+00:57:17,709 --> 00:57:27,249
+can do in a real life scenario so let's
+take a look I'm I want listen to some
+
+578
+00:57:27,249 --> 00:57:33,699
+music so I'm gonna go into my iPod here
+and let's see an artist's I want to
+
+579
+00:57:33,699 --> 00:57:39,489
+listen to oh maybe
+Red Hot Chili Peppers I love those guys
+
+580
+00:57:39,489 --> 00:57:48,000
+and so I'm listening to a song of theirs
+
+581
+00:57:48,630 --> 00:57:56,640
+and let's see what happens when I get a
+phone call music fades out screen
+
+582
+00:57:56,640 --> 00:58:03,660
+changes phone call coming in so I can
+ignore it but I think I'm gonna answer
+
+583
+00:58:03,660 --> 00:58:10,830
+it so I'll answer it howdy hi Phil now
+knows who Phil is because he's in my
+
+584
+00:58:10,830 --> 00:58:13,350
+address book so it puts his little
+picture up here and everything up there
+
+585
+00:58:13,350 --> 00:58:26,250
+yeah how I feel listen I'm kind of busy
+right now what I do for you okay hold on
+
+586
+00:58:26,250 --> 00:58:30,870
+just sec so I push the home button here
+down at the bottom and I go home right
+
+587
+00:58:30,870 --> 00:58:34,800
+here and I'm still on the call you can
+see the the phone thing flashing right
+
+588
+00:58:34,800 --> 00:58:39,000
+there on the lower left and I go into
+photos and now I'm in photos and again
+
+589
+00:58:39,000 --> 00:58:41,700
+you can see the bar across the top the
+green bar I can just touch that to
+
+590
+00:58:41,700 --> 00:58:45,990
+return to the call and Phil wants a
+photo that he wanted to use it for a
+
+591
+00:58:45,990 --> 00:58:49,440
+screen saver it was one of the ones that
+was taken in Hawaii I think it was this
+
+592
+00:58:49,440 --> 00:58:54,660
+one yep there it is so you want me to
+mail this to you Phil all right so I
+
+593
+00:58:54,660 --> 00:58:57,810
+again I just go down here and push this
+button and rather than use it as
+
+594
+00:58:57,810 --> 00:59:02,460
+wallpaper I'm gonna email it and so
+watch what happens now it shrinks it a
+
+595
+00:59:02,460 --> 00:59:08,130
+little bit and then a compose window
+will come up right behind it there we go
+
+596
+00:59:08,130 --> 00:59:13,860
+and I will just tap in the to field and
+send this to Phil here Phil Schiller
+
+597
+00:59:13,860 --> 00:59:18,020
+there we go and the email is there yep
+it's there and I'm just going to send it
+
+598
+00:59:18,020 --> 00:59:29,010
+hey Phil that should be on its way right
+now okay yep anything else maybe catch a
+
+599
+00:59:29,010 --> 00:59:35,400
+movie tonight let me go check it out
+I've got I think I got Fandango and my
+
+600
+00:59:35,400 --> 00:59:42,000
+bookmarks here and yes I do let's go to
+Fandango figure out what movies are
+
+601
+00:59:42,000 --> 00:59:44,180
+playing
+
+602
+00:59:46,330 --> 00:59:50,410
+don't want to read too much into it
+
+603
+00:59:50,650 --> 00:59:55,250
+okay here's Fandango let's just
+DoubleTap and here's the movies playing
+
+604
+00:59:55,250 --> 01:00:01,790
+yep how about we go see Night at the
+Museum I haven't seen that yet great all
+
+605
+01:00:01,790 --> 01:00:04,400
+righty
+hey take care of Phil now what I'm going
+
+606
+01:00:04,400 --> 01:00:09,200
+to do is to go back to my call I just
+touch the top here and I'm back at my
+
+607
+01:00:09,200 --> 01:00:16,610
+call and I'm just going to go ahead and
+end the call and what happens now back
+
+608
+01:00:16,610 --> 01:00:19,360
+in my music
+
+609
+01:00:31,099 --> 01:00:35,929
+so this is what it's like when you put
+it all together
+
+610
+01:00:35,929 --> 01:00:43,619
+iPhone today Apple is reinventing the
+phone now how does this stack up let's
+
+611
+01:00:43,619 --> 01:00:50,339
+go back to to these guys let's take a
+look well these are their these are
+
+612
+01:00:50,339 --> 01:00:58,079
+their home screens and again as you
+recall this is iPhones home screen this
+
+613
+01:00:58,079 --> 01:01:03,899
+this is what their contacts look like
+this is what iPhones contacts look like
+
+614
+01:01:03,899 --> 01:01:07,259
+and again you just pick one and you see
+everything about that person all the
+
+615
+01:01:07,259 --> 01:01:12,899
+information you have this is what mail
+looks like on these smart phones again
+
+616
+01:01:12,899 --> 01:01:19,949
+this is what mail looks like on iPhone
+you have rich HTML rich text email this
+
+617
+01:01:19,949 --> 01:01:23,999
+is what calendars look like on these
+guys that's what calendars look like on
+
+618
+01:01:23,999 --> 01:01:28,979
+iPhone this is what the web looks like
+and we tried to make it look as good as
+
+619
+01:01:28,979 --> 01:01:33,929
+we could on these it usually looks worse
+and this is what you get and of course
+
+620
+01:01:33,929 --> 01:01:39,019
+this is what you get on iphone and you
+can zoom in and see anything you want
+
+621
+01:01:39,019 --> 01:01:46,229
+and this is what you get from music
+players nobody really uses a much and
+
+622
+01:01:46,229 --> 01:01:53,639
+this is what you get on iphone so after
+today I don't think anyone's gonna look
+
+623
+01:01:53,639 --> 01:01:59,009
+at these phones quite the same way again
+now let me tell you about some
+
+624
+01:01:59,009 --> 01:02:03,659
+accessories we've got for iPhone got
+some great stereo headphones we're going
+
+625
+01:02:03,659 --> 01:02:08,819
+to be shipping and they've got a little
+addition to them which is this little
+
+626
+01:02:08,819 --> 01:02:13,169
+thing right over here it's a microphone
+and a switch so you can talk you have
+
+627
+01:02:13,169 --> 01:02:16,469
+them in there you can get a call just
+talk the beautiful reception on the
+
+628
+01:02:16,469 --> 01:02:20,429
+microphone and just push it together to
+answer a call or hang up on a call and
+
+629
+01:02:20,429 --> 01:02:24,839
+so you can be wearing them and just
+dangles right there and picks up your
+
+630
+01:02:24,839 --> 01:02:30,089
+voice beautifully and we also have a
+Bluetooth accessory headset that we're
+
+631
+01:02:30,089 --> 01:02:34,189
+going to be shipping and there it is
+right there it's incredibly small and
+
+632
+01:02:34,189 --> 01:02:38,069
+just to let you see what it looks like
+it's got one button on the top for
+
+633
+01:02:38,069 --> 01:02:40,889
+answering and hanging up a phone call
+you never have to turn it off or on it
+
+634
+01:02:40,889 --> 01:02:42,440
+just goes to sleep
+it
+
+635
+01:02:42,440 --> 01:02:45,890
+we pairs with iPhone so you don't have
+to worry about pairing it's really
+
+636
+01:02:45,890 --> 01:02:51,230
+simple and it's very tiny this is what
+it looks like in here it's just
+
+637
+01:02:51,230 --> 01:02:53,839
+beautiful it's the coolest one that
+we've ever seen
+
+638
+01:02:53,839 --> 01:02:59,839
+so Bluetooth headset coming as well
+battery life there's a lot of stuff a
+
+639
+01:02:59,839 --> 01:03:03,859
+lot of these phones a lot of these
+smartphones have pretty pretty low
+
+640
+01:03:03,859 --> 01:03:08,390
+battery lights we've managed to get five
+hours of battery and that's for talktime
+
+641
+01:03:08,390 --> 01:03:16,339
+or video or browsing five hours of
+battery life and 16 hours of audio
+
+642
+01:03:16,339 --> 01:03:23,839
+playback so that's dramatically better
+than any of these smart phones there's a
+
+643
+01:03:23,839 --> 01:03:30,829
+tremendous amount of high technology in
+iphone we've been pushing the state of
+
+644
+01:03:30,829 --> 01:03:37,220
+the art in every facet of this design so
+let me just talk a little bit about it
+
+645
+01:03:37,220 --> 01:03:43,339
+here we've got the multi-touch screen a
+first miniaturization more than we've
+
+646
+01:03:43,339 --> 01:03:53,599
+ever done before a lot of custom silicon
+tremendous power management OS 10 inside
+
+647
+01:03:53,599 --> 01:03:59,180
+a mobile device
+featherweight precision enclosures 3
+
+648
+01:03:59,180 --> 01:04:06,530
+advanced sensors desktop class
+applications and of course the
+
+649
+01:04:06,530 --> 01:04:12,500
+widescreen video iPod we've been
+innovating like crazy for the last few
+
+650
+01:04:12,500 --> 01:04:17,930
+years on this and we filed for over 200
+patents for all the inventions in iPhone
+
+651
+01:04:17,930 --> 01:04:21,160
+and we intend to protect
+
+652
+01:04:23,990 --> 01:04:29,300
+a lot of high technology I think we're
+advancing the state-of-the-art in every
+
+653
+01:04:29,300 --> 01:04:35,600
+aspect of this design so iPhone is like
+having your life in your pocket
+
+654
+01:04:35,600 --> 01:04:43,390
+it's the ultimate digital device so what
+should we price it at
+
+655
+01:04:43,440 --> 01:04:51,359
+well what do these things normally cost
+an iPod the most popular iPod $199 for 4
+
+656
+01:04:51,359 --> 01:04:57,539
+gig Nano what's a smartphone cost well
+they they say you get the phone and some
+
+657
+01:04:57,539 --> 01:05:02,579
+of the internet with it although that's
+questionable but they cost somewhere
+
+658
+01:05:02,579 --> 01:05:07,140
+between around $2.99 you can get them
+for $1.99 pomme just introduced a new
+
+659
+01:05:07,140 --> 01:05:11,760
+one at 399 yesterday so it generally
+averaged about $2.99 with a two-year
+
+660
+01:05:11,760 --> 01:05:16,380
+contract now these phones sort of do
+music but nobody uses them for music cuz
+
+661
+01:05:16,380 --> 01:05:19,799
+they're not very good and so they end up
+buying an iPod to go with the phone we
+
+662
+01:05:19,799 --> 01:05:24,750
+know we sell the iPod and so people
+spend four hundred and ninety nine
+
+663
+01:05:24,750 --> 01:05:31,559
+dollars on this combination what should
+we charge for iPhone because iPhones got
+
+664
+01:05:31,559 --> 01:05:38,069
+a lot more than this stuff right it's
+got video real video it's got what this
+
+665
+01:05:38,069 --> 01:05:44,520
+beautiful gorgeous widescreen it's got
+multi-touch user interface it's got
+
+666
+01:05:44,520 --> 01:05:51,329
+Wi-Fi it's got a real browser
+it's got HTML email it's got Cover Flow
+
+667
+01:05:51,329 --> 01:05:54,650
+and on and on and on and this stuff
+would normally cost hundreds of dollars
+
+668
+01:05:54,650 --> 01:06:01,950
+so how much more than $4.99 should we
+price iPhone well we thought long and
+
+669
+01:06:01,950 --> 01:06:07,410
+hard about it because iPhone just does
+so much stuff so much better experience
+
+670
+01:06:07,410 --> 01:06:13,500
+on a call and managing your contacts and
+visual voicemail random access voicemail
+
+671
+01:06:13,500 --> 01:06:21,260
+for the first time and texting and email
+and real browser and Google Maps and
+
+672
+01:06:21,260 --> 01:06:28,070
+tremendous iPod and Cover Flow and video
+what should we price this thing at well
+
+673
+01:06:28,070 --> 01:06:34,200
+for for gigabyte model we're gonna price
+it at that same $4.99 no premium
+
+674
+01:06:34,200 --> 01:06:44,910
+whatsoever for $99 and we're gonna have
+an 8 gigabyte model for just $5.99 so if
+
+675
+01:06:44,910 --> 01:06:50,130
+you're gonna price it starting at 499
+dollars now when's it going to be
+
+676
+01:06:50,130 --> 01:06:55,830
+available we're gonna be shipping these
+in June yeah
+
+677
+01:06:55,830 --> 01:07:01,170
+June we're announcing it today because
+with products like this we got to go and
+
+678
+01:07:01,170 --> 01:07:04,680
+get FCC approval which takes a few
+months and we thought it'd be better if
+
+679
+01:07:04,680 --> 01:07:09,150
+we introduced this rather than asked the
+FCC introduced to introduce it for us so
+
+680
+01:07:09,150 --> 01:07:13,650
+here we are we're gonna be shipping it
+in June in the US we're going to Europe
+
+681
+01:07:13,650 --> 01:07:20,340
+hopefully by the 4th calendar quarter of
+this year and Asia in 2008 so Jun in
+
+682
+01:07:20,340 --> 01:07:26,610
+just a few months we'll be shipping in
+the US and when we do our partner is
+
+683
+01:07:26,610 --> 01:07:33,840
+going to be singular we've chosen
+singular they are they are the best and
+
+684
+01:07:33,840 --> 01:07:39,390
+most popular network in the country 58
+million subscribers they are number one
+
+685
+01:07:39,390 --> 01:07:44,940
+and they're going to be our exclusive
+partner in the u.s. now it's a unique
+
+686
+01:07:44,940 --> 01:07:48,990
+partnership though we're not just going
+to be selling phones and services
+
+687
+01:07:48,990 --> 01:07:52,860
+together we're going to be doing
+innovation together we worked with
+
+688
+01:07:52,860 --> 01:07:58,010
+singular on visual voicemail because
+it's an innovation that requires both
+
+689
+01:07:58,010 --> 01:08:02,130
+innovation on the phone and in the
+network you can't do it in just one
+
+690
+01:08:02,130 --> 01:08:05,940
+place you have to do it in both places
+and collaborate and so visual voicemail
+
+691
+01:08:05,940 --> 01:08:11,070
+is the first fruit of this collaboration
+and you will see more and when we start
+
+692
+01:08:11,070 --> 01:08:15,210
+shipping in june will be selling iphone
+through our own stores and through
+
+693
+01:08:15,210 --> 01:08:22,830
+singular stores and it's my pleasure to
+introduce the CEO of singular stand
+
+694
+01:08:22,830 --> 01:08:25,280
+signal
+
+695
+01:08:36,979 --> 01:08:40,109
+congratulations my friend
+thank you well the slipper thank you
+
+696
+01:08:40,109 --> 01:08:45,779
+thank you you know Steve and I first met
+about two years ago in New York City
+
+697
+01:08:45,779 --> 01:08:50,400
+when he shared with me this vision that
+he had for this product and we've been
+
+698
+01:08:50,400 --> 01:08:55,019
+working on it for some time and actually
+entered into a contractual agreement
+
+699
+01:08:55,019 --> 01:09:00,269
+without us ever seeing the device or the
+phone that was because of the confidence
+
+700
+01:09:00,269 --> 01:09:06,119
+that I have it's Steve and his
+leadership team to deliver on the vision
+
+701
+01:09:06,119 --> 01:09:12,630
+that they have and every time I see this
+it's just wow it's just wow it's really
+
+702
+01:09:12,630 --> 01:09:17,449
+really cool you've exceeded my
+expectation
+
+703
+01:09:22,859 --> 01:09:29,350
+it's a real honor for singular to be
+partnering with Apple today and I
+
+704
+01:09:29,350 --> 01:09:33,549
+brought with me another company to
+celebrate in this and it's a pretty big
+
+705
+01:09:33,549 --> 01:09:42,520
+company it's the new AT&amp;T you know 11
+days ago 18 T became a full part
+
+706
+01:09:42,520 --> 01:09:48,640
+I mean senior became a full part of the
+new AT&amp;T family and this new family will
+
+707
+01:09:48,640 --> 01:09:55,870
+help fulfill the vision we have of
+wireline wireless broadband and video
+
+708
+01:09:55,870 --> 01:10:03,030
+coming together on one device in the
+ways that customers haven't imagined
+
+709
+01:10:03,030 --> 01:10:09,940
+today singular and Apple are truly
+raising the bar we're announcing a
+
+710
+01:10:09,940 --> 01:10:14,260
+partnership that the mobile phone
+experience takes in the mobile phone
+
+711
+01:10:14,260 --> 01:10:20,410
+experience to a real new level by
+bringing together the best network with
+
+712
+01:10:20,410 --> 01:10:27,330
+the best device networks or the
+foundation of what singular an AT&amp;T do
+
+713
+01:10:27,330 --> 01:10:35,050
+singular offers the largest digital and
+voice data network in America today the
+
+714
+01:10:35,050 --> 01:10:41,199
+singular network has the fewest drop
+calls in this country an AT&amp;T is the
+
+715
+01:10:41,199 --> 01:10:47,350
+largest provider of broadband internet
+services in this community when it comes
+
+716
+01:10:47,350 --> 01:10:55,239
+to networks 80 wrote the book their
+quality is legendary put this network
+
+717
+01:10:55,239 --> 01:11:01,449
+experience that singular and 80 have and
+Apple products together and what do you
+
+718
+01:11:01,449 --> 01:11:07,360
+get first you get the best voice and
+data services with the best user
+
+719
+01:11:07,360 --> 01:11:14,469
+experience available anywhere second you
+get real compelling products and
+
+720
+01:11:14,469 --> 01:11:20,230
+services for example there's a voice
+visual voicemail that Steve mentioned
+
+721
+01:11:20,230 --> 01:11:24,850
+which lets you look at the voice message
+you want to hear and when you want to
+
+722
+01:11:24,850 --> 01:11:28,840
+hear it as Steve mentioned to create the
+visual voicemail
+
+723
+01:11:28,840 --> 01:11:35,030
+it took innovation on singers part at
+the network level and by Apple
+
+724
+01:11:35,030 --> 01:11:40,300
+with the device and I promise you'll see
+more of that coming down the road
+
+725
+01:11:40,300 --> 01:11:47,630
+third when you bite combine singulars
+2100 retail stores in number one
+
+726
+01:11:47,630 --> 01:11:53,570
+wireless online store with Apple's
+already legendary retail stores and
+
+727
+01:11:53,570 --> 01:11:59,150
+online stores
+you've got unmatched distribution yes
+
+728
+01:11:59,150 --> 01:12:03,110
+we're truly pleased to partner with
+Apple to lit to deliver one of the most
+
+729
+01:12:03,110 --> 01:12:10,849
+eagerly awaited wireless products ever
+the iPhone that he showed you with the
+
+730
+01:12:10,849 --> 01:12:16,880
+iPhone you get a breakthrough wireless
+experience and we'll be working
+
+731
+01:12:16,880 --> 01:12:21,949
+shoulders shoulder with Steve and his
+team to make sure that the integration
+
+732
+01:12:21,949 --> 01:12:25,840
+of the iPhone and our network is
+seamless
+
+733
+01:12:25,840 --> 01:12:33,469
+this is only the beginning we are just
+introducing a new product we're changing
+
+734
+01:12:33,469 --> 01:12:41,929
+the way companies work together Apple
+and singular have a multi-year exclusive
+
+735
+01:12:41,929 --> 01:12:48,139
+partnership the new iPhone is only
+available with singular wireless
+
+736
+01:12:48,139 --> 01:12:57,710
+services this is not an MVNO ours is a
+unique relationship that lets Apple be
+
+737
+01:12:57,710 --> 01:13:04,729
+Apple that's singular be singular
+Apple has built a device combining the
+
+738
+01:13:04,729 --> 01:13:11,050
+best phone iPod and mobile Internet
+experience ever
+
+739
+01:13:11,050 --> 01:13:18,229
+iPhone owners will be singular and AT&amp;T
+customers our customers will get the
+
+740
+01:13:18,229 --> 01:13:25,280
+best network and services in the
+business people will benefit from the
+
+741
+01:13:25,280 --> 01:13:31,329
+best that companies they already know
+and trust and what they have to offer
+
+742
+01:13:31,329 --> 01:13:38,599
+Apple singular and AT&amp;T have come a long
+ways and now we're picking up the pace a
+
+743
+01:13:38,599 --> 01:13:45,889
+little over six years ago BellSouth and
+80 came together to form singular 11
+
+744
+01:13:45,889 --> 01:13:53,500
+days singular joined the new 8
+- today singing er and 80 are working
+
+745
+01:13:53,500 --> 01:13:59,740
+together to provide our customers the
+most innovative enjoyable and reliable
+
+746
+01:13:59,740 --> 01:14:05,470
+service in the industry I hope you're as
+excited as we are
+
+747
+01:14:05,470 --> 01:14:10,570
+that's what we have to see and enjoy
+here this is going to be a terrific ride
+
+748
+01:14:10,570 --> 01:14:16,020
+thank you very much Steve
+and congratulations
+
+749
+01:14:27,280 --> 01:14:32,389
+you know as Stan said we started working
+together about two years ago and we come
+
+750
+01:14:32,389 --> 01:14:37,010
+from pretty different worlds the
+telecommunications industry the computer
+
+751
+01:14:37,010 --> 01:14:41,199
+industry and of course music with the
+iPod and and yet we have worked
+
+752
+01:14:41,199 --> 01:14:45,380
+wonderfully together and we love these
+guys and we think it's we're gonna bring
+
+753
+01:14:45,380 --> 01:14:50,929
+some great stuff to market over the
+years together so let's take a look at
+
+754
+01:14:50,929 --> 01:15:03,500
+at this market and how big it is
+my clickers not working oh there it is
+
+755
+01:15:03,500 --> 01:15:09,969
+maybe it is working so how big is this
+market well let's take a look
+
+756
+01:15:17,489 --> 01:15:25,280
+clicker is not working all right
+there's scrambling backstage right now
+
+757
+01:15:34,670 --> 01:15:43,850
+you know when I was in high school Steve
+Wozniak and I mostly Steve made this
+
+758
+01:15:43,850 --> 01:15:48,199
+little device called a TV jammer and it
+was this it was this little oscillator
+
+759
+01:15:48,199 --> 01:15:51,650
+that put our frequencies that would
+screw up the TV and was what have it in
+
+760
+01:15:51,650 --> 01:15:55,130
+this pocket and we go into like a dorm
+at Berkeley where he was going to school
+
+761
+01:15:55,130 --> 01:15:59,239
+and a bunch of folks would be watching
+like Star Trek and he screw up the TV
+
+762
+01:15:59,239 --> 01:16:02,480
+and somebody go up to fix it and and
+just as they had their foot off the
+
+763
+01:16:02,480 --> 01:16:06,320
+ground he turned it back on if they put
+their foot back on the ground he screw
+
+764
+01:16:06,320 --> 01:16:12,050
+up the TV again and within five minutes
+he'd to have somebody like this for the
+
+765
+01:16:12,050 --> 01:16:15,260
+rest of the Star Trek episode okay so
+maybe it's working now maybe they're
+
+766
+01:16:15,260 --> 01:16:20,810
+gonna have to click them for me so game
+consoles 26 million game consoles were
+
+767
+01:16:20,810 --> 01:16:24,500
+sold in 2006 worldwide actually a little
+smaller than you'd think
+
+768
+01:16:24,500 --> 01:16:30,440
+it's not such a big market digital
+cameras dwarfed it at 94 million mp3
+
+769
+01:16:30,440 --> 01:16:40,790
+players 135 million and PCs about 209
+mobile phones just about a billion last
+
+770
+01:16:40,790 --> 01:16:47,389
+year worldwide so what does this tell
+you what this tells you is that one
+
+771
+01:16:47,389 --> 01:16:53,570
+percent market share equals 10 million
+units this is a giant market if you just
+
+772
+01:16:53,570 --> 01:16:58,610
+one percent market share you're gonna
+sell 10 million phones and this is
+
+773
+01:16:58,610 --> 01:17:03,170
+exactly what we're gonna try to do in
+2008 our first full year in the market
+
+774
+01:17:03,170 --> 01:17:07,550
+is grab 1 percent market share and go
+from there so we're gonna enter a very
+
+775
+01:17:07,550 --> 01:17:11,540
+competitive market a lot of players we
+think we're gonna have the best product
+
+776
+01:17:11,540 --> 01:17:15,710
+in the world and we're gonna go for it
+and see if we get one percent market
+
+777
+01:17:15,710 --> 01:17:25,280
+share 10 million units in 2008 and go
+from there so today we've added to the
+
+778
+01:17:25,280 --> 01:17:36,560
+Mac and the iPod we've added Apple TV
+and now iPhone and you know the Mac is
+
+779
+01:17:36,560 --> 01:17:42,380
+the only one that you really think of as
+a computer right and so we thought about
+
+780
+01:17:42,380 --> 01:17:47,090
+this and we thought you know maybe our
+name should reflect this a little bit
+
+781
+01:17:47,090 --> 01:17:50,900
+more than it
+so we're announcing today we're dropping
+
+782
+01:17:50,900 --> 01:17:54,770
+the computer from our name and from this
+day forward we're going to be known as
+
+783
+01:17:54,770 --> 01:17:59,890
+Apple incorporated to reflect the
+product mix that we have today
+
+784
+01:18:07,119 --> 01:18:12,800
+you know I didn't sleep a wink last
+night and I was so excited about today
+
+785
+01:18:12,800 --> 01:18:18,380
+because we've been so lucky at Apple
+we've had some real revolutionary
+
+786
+01:18:18,380 --> 01:18:22,880
+products the Mac in 1984 is an
+experience that those of us that were
+
+787
+01:18:22,880 --> 01:18:26,650
+there will never forget and I don't
+think the world will forget it either
+
+788
+01:18:26,650 --> 01:18:33,710
+the iPod in 2001 changed everything
+about music and we're gonna do it again
+
+789
+01:18:33,710 --> 01:18:45,530
+with the iPhone in 2007 we're very
+excited about this you know there's an
+
+790
+01:18:45,530 --> 01:18:50,300
+old Wayne Gretzky quote that I love I
+skate to where the puck is going to be
+
+791
+01:18:50,300 --> 01:18:56,929
+not where it has been and we've always
+tried to do that at Apple since the very
+
+792
+01:18:56,929 --> 01:19:11,789
+very beginning and we always will so
+thank you very very much
