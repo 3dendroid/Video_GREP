@@ -1,8 +1,12 @@
-Commands for download in terminal
-
+Commands for download in terminal:
 yt-dlp https://www.youtube.com/watch?v=7Axm5oZ9qHs --write-subs --sub-langs "en" -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" - Steve Jobs presentation
-
 yt-dlp https://www.youtube.com/watch?v=1psQmdieFsU"&"ab_channel=DorothyGale --write-subs --sub-langs "en" -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" - Dunno on the Moon
 
 Merge command for ffmpeg:
 ffmpeg/bin/ffmpeg.exe -i name_video.mp4 -i name_audio.m4a -c:v copy -c:a copy two.mp4 - input in terminal
+
+Links for download ffmpeg:
+https://github.com/BtbN/FFmpeg-Builds/releases
+
+Manuals:
+https://img.ly/blog/ultimate-guide-to-ffmpeg/
