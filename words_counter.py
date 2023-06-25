@@ -15,7 +15,7 @@ def convert_time(timestring):
     return 3600 * nums[0] + 60 * nums[1] + nums[2] + nums[3] / 1000
 
 
-with open("apple.srt") as f:
+with open(r'C:\Users\GIGACHAD\Desktop\videogrep2\source_videos\apple.srt') as f:
     lines = f.readlines()
 
 current_times, current_text = None, ""
