@@ -18,7 +18,7 @@ with open("1.txt", "r") as file1:
             spisokSlov.append(line)
 
         else:
-            print('Нечентное число')
+            print('Нечетное число')
             spisokTime.append(line.split())
 
 try:

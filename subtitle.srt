@@ -1,0 +1,39 @@
+1
+00:00:0,000 --> 00:00:2,000
+Hello! My name is Denis and
+
+2
+00:00:2,000 --> 00:00:4,000
+I want to tell you something...
+
+3
+00:00:4,000 --> 00:00:7,000
+1 year ago, it was raining
+
+4
+00:00:10,000 --> 00:00:13,000
+but now everything okay
+
+5
+00:00:15,000 --> 00:00:17,000
+How about coffee she said
+
+6
+00:00:18,000 --> 00:00:22,000
+It funny, cuz I don't drink coffee
+
+7
+00:00:25,000 --> 00:00:32,000
+That's why me and my friend <b>Joe<b> get out
+
+8
+00:00:35,000 --> 00:00:37,000
+And still now it's hard to me
+
+9
+00:00:40,000 --> 00:00:44,000
+<i>Mr.Norris didn't know about her son<i>
+
+10
+00:00:46,000 --> 00:00:55,000
+He is a monster!
